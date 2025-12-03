@@ -1,0 +1,10 @@
+pandas
+numpy
+openpyxl
+tk
+scikit-learn
+matplotlib
+seaborn
+streamlit
+faker
+ipykernel
