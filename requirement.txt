@@ -8,3 +8,5 @@ seaborn
 streamlit
 faker
 ipykernel
+xlrd
+regex
